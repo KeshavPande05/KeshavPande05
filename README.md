@@ -1,108 +1,40 @@
 <h1 align="center">Hi 👋, I'm Keshav Pande</h1>
-<h3 align="center">M.Sc. Big Data Biology Student | Machine Learning | Bioinformatics | Deep Learning</h3>
 
 <p align="center">
-  Passionate about solving biological problems using Artificial Intelligence, Machine Learning, and Data Science.
+M.Sc. Big Data Biology Student at IBAB • Machine Learning • Bioinformatics • Deep Learning
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Pursuing **M.Sc. in Big Data Biology** at **IBAB, Bengaluru**
-- 🔬 Interested in **Machine Learning, Deep Learning, Bioinformatics, and Cancer Genomics**
-- 💻 Currently learning **PyTorch, Linux, Data Structures & Algorithms, and System Design**
-- 🌱 Exploring **Computer Vision, NLP, Single-Cell Analysis, and AI for Healthcare**
-- 📚 Love building projects and participating in Hackathons
-- ⚡ Fun Fact: I enjoy turning biological data into meaningful insights using code.
+- 🎓 M.Sc. Big Data Biology @ IBAB, Bengaluru
+- 🔬 Interested in Machine Learning, Deep Learning, and Bioinformatics
+- 💻 Currently learning PyTorch, Linux, and Data Structures & Algorithms
+- 🌱 Building projects in AI and Computational Biology
 
 ---
 
-## 🛠️ Languages
+## 🛠️ Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-</p>
+**Languages**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
-## 🧰 Libraries & Frameworks
+**Libraries & Tools**
 
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 💻 Tools & Technologies
+## 📫 Connect
 
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-</p>
-
----
-
-## 📚 Currently Learning
-
-- 🧠 Deep Learning
-- 🤖 PyTorch
-- 📊 Data Structures & Algorithms
-- 🐧 Linux & Shell Scripting
-- ☁️ Cloud Computing
-- 🧬 Computational Biology
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KeshavPande05&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeshavPande05&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KeshavPande05&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-- Deep Learning Applications
-- Bioinformatics Research
-- Computer Vision
-- Cancer Genomics
-- Open Source Contributions
-
----
-
-## 🤝 Connect With Me
-
-<p>
-<a href="https://www.linkedin.com/in/pandekeshav">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:keshavpande1603@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-</p>
-
----
-
-<p align="center">
-⭐ <b>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</b>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandekeshav)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:keshavpande1603@gmail.com)
