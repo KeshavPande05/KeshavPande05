@@ -1,40 +1,25 @@
-<h1 align="center">Hi 👋, I'm Keshav Pande</h1>
-
-<p align="center">
-M.Sc. Big Data Biology Student at IBAB • Machine Learning • Bioinformatics • Deep Learning
-</p>
-
+improve this # Hi 👋, I'm Keshav!
+🎓 Aspiring Data Scientist | Bioinformatics Enthusiast  
+🔬 Passionate about Machine Learning and Bio-Hackathon challenges
 ---
-
-## 👨‍💻 About Me
-
-- 🎓 M.Sc. Big Data Biology @ IBAB, Bengaluru
-- 🔬 Interested in Machine Learning, Deep Learning, and Bioinformatics
-- 💻 Currently learning PyTorch, Linux, and Data Structures & Algorithms
-- 🌱 Building projects in AI and Computational Biology
-
+### 🌱 Currently working on:
+- Machine Learning projects in Bioinformatics
+- Data Science and Cancer research pipelines
+- Git, Linux & Python skills
 ---
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-
-**Libraries & Tools**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
+### 🛠️ Programming Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 📚 Libraries & Tools:
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ---
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandekeshav)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:keshavpande1603@gmail.com)
+### 📊 GitHub Stats:
+![Keshav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keshavpande01&show_icons=true&theme=dark)
+---
+### 🤝 Let's connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
