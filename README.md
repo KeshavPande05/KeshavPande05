@@ -75,10 +75,6 @@
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=KeshavPande05&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 🎯 Current Focus
@@ -93,10 +89,9 @@
 
 ## 🤝 Connect With Me
 
-<p>
-<a href="https://www.linkedin.com/in/pandekeshav">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KeshavPande05&theme=tokyonight&hide_border=true"/>
+</p>
 
 <a href="mailto:keshavpande1603@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
