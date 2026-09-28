@@ -64,10 +64,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
----
-
 ## 🎯 Current Focus
 
 - Deep Learning Applications
