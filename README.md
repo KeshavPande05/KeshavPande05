@@ -11,6 +11,7 @@
 
 - 🎓 Pursuing **M.Sc. in Big Data Biology** at **IBAB, Bengaluru**
 - 🔬 Interested in **Machine Learning, Deep Learning, Bioinformatics, and Cancer Genomics**
+- 💻 Currently learning **PyTorch, Linux, Data Structures & Algorithms, and System Design**
 - 🌱 Exploring **Computer Vision, NLP, Single-Cell Analysis, and AI for Healthcare**
 - 📚 Love building projects and participating in Hackathons
 - ⚡ Fun Fact: I enjoy turning biological data into meaningful insights using code.
@@ -46,28 +47,19 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
 ---
 
-## 🎯 Currently Learning & Focus
+## 📚 Currently Learning
 
-- 🧠 Deep Learning & PyTorch
+- 🧠 Deep Learning
+- 🤖 PyTorch
 - 📊 Data Structures & Algorithms
 - 🐧 Linux & Shell Scripting
 - ☁️ Cloud Computing
-- 🧬 Computational Biology & Cancer Genomics
-- 👁️ Computer Vision
-- 🌐 Open Source Contributions
-
----
-
-## 📌 Featured Projects
-
-<!-- Replace with your actual repos -->
-- **[Project Name](https://github.com/KeshavPande05/repo)** – one-line description
-- **[Project Name](https://github.com/KeshavPande05/repo)** – one-line description
+- 🧬 Computational Biology
 
 ---
 
@@ -78,20 +70,30 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeshavPande05&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=KeshavPande05&theme=tokyonight&hide_border=true"/>
-</p>
+---
+
+## 🔥 GitHub Streak
+
+---
+
+## 🎯 Current Focus
+
+- Deep Learning Applications
+- Bioinformatics Research
+- Computer Vision
+- Cancer Genomics
+- Open Source Contributions
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=KeshavPande05&theme=tokyonight&hide_border=true"/>
+</p>
+
 <a href="mailto:keshavpande1603@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/YOUR-HANDLE/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
 
